@@ -34,3 +34,9 @@ Coding pada style.css
 ![screenshoot 4](screenshoot/4.png)
 Tampilan pada web
 ![screenshoot 4](screenshoot/4.1.png)
+
+##### 3. Membuat code untuk navigasi pada style.css
+Coding pada style.css
+![screenshoot 5](screenshoot/5.png)
+Tampilan pada web
+![screenshoot 5](screenshoot/5.1.png)
