@@ -50,3 +50,12 @@ Coding pada style.css
 ![screenshoot 6](screenshoot/6.1.png)
 Tampilan pada web
 ![screenshoot 6](screenshoot/6.2.png)
+
+#### 5. Mengatur Layout Main dan Sidebar
+
+Coding pada style.css untuk main content
+![screenshoot 7](screenshoot/7.png)
+Coding pada home.html untuk Sidebar Widget
+![screenshoot 7](screenshoot/7.1.png)
+Coding pada style.css untuk widget
+![screenshoot 7](screenshoot/7.2.png)
