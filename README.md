@@ -59,3 +59,5 @@ Coding pada home.html untuk Sidebar Widget
 ![screenshoot 7](screenshoot/7.1.png)
 Coding pada style.css untuk widget
 ![screenshoot 7](screenshoot/7.2.png)
+Tampilan pada web
+![screenshoot 7](screenshoot/7.3.png)
