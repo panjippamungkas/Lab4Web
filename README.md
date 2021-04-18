@@ -97,3 +97,12 @@ Code pada about.html dan saya menggunakan css internal
 ![screenshoot 11](screenshoot/11.2.png)
 Tampilan pada web
 ![screenshoot 11](screenshoot/11.3.png)
+
+#### 2. Layout menu Kontak
+
+Code pada kontak.html dan saya menggunakan css internal
+![screenshoot 12](screenshoot/12.png)
+![screenshoot 12](screenshoot/12.1.png)
+![screenshoot 12](screenshoot/12.2.png)
+Tampilan pada web
+![screenshoot 12](screenshoot/12.3.png)
