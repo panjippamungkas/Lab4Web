@@ -77,3 +77,12 @@ Code pada style.css
 ![screenshoot 9](screenshoot/9.1.png)
 Tampilan pada web
 ![screenshoot 9](screenshoot/9.2.png)
+
+#### 8. Menambahkan Content Artikel
+
+Code pada home.html
+![screenshoot 10](screenshoot/10.png)
+Code pada style.css
+![screenshoot 10](screenshoot/10.1.png)
+Tampilan pada web
+![screenshoot 10](screenshoot/10.2.png)
