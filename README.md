@@ -27,3 +27,10 @@ Coding pada home.html
 ![screenshoot 3](screenshoot/3.png)
 Tampilan pada web
 ![screenshoot 3](screenshoot/3.1.png)
+
+#### 2. Membuat style.css pada folder baru dengan nama lab4_layout
+
+Coding pada style.css
+![screenshoot 4](screenshoot/4.png)
+Tampilan pada web
+![screenshoot 4](screenshoot/4.1.png)
