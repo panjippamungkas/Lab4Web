@@ -20,6 +20,9 @@ Tampilan apabila menggunakan properti clear dengan nilai right.
 ![screenshoot 2](screenshoot/2.2.png)
 
 ### Membuat Layout Sederhana
+
+#### 1. Membuat home.html pada folder baru dengan nama lab4_layout
+
 Coding pada home.html 
 ![screenshoot 3](screenshoot/3.png)
 Tampilan pada web
