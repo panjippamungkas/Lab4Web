@@ -36,7 +36,17 @@ Tampilan pada web
 ![screenshoot 4](screenshoot/4.1.png)
 
 ##### 3. Membuat code untuk navigasi pada style.css
+
 Coding pada style.css
 ![screenshoot 5](screenshoot/5.png)
 Tampilan pada web
 ![screenshoot 5](screenshoot/5.1.png)
+
+##### 4. Membuat code untuk hero panel pada home.html dan style.css
+
+Coding pada home.html
+![screenshoot 6](screenshoot/6.png)
+Coding pada style.css
+![screenshoot 6](screenshoot/6.1.png)
+Tampilan pada web
+![screenshoot 6](screenshoot/6.2.png)
