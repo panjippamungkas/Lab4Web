@@ -61,3 +61,10 @@ Coding pada style.css untuk widget
 ![screenshoot 7](screenshoot/7.2.png)
 Tampilan pada web
 ![screenshoot 7](screenshoot/7.3.png)
+
+#### 6. Mengatur Footer
+
+Coding pada style.css untuk mengatur footer
+![screenshoot 8](screenshoot/8.png)
+Tampilan pada web
+![screenshoot 8](screenshoot/8.1.png)
