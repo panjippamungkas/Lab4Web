@@ -68,3 +68,12 @@ Coding pada style.css untuk mengatur footer
 ![screenshoot 8](screenshoot/8.png)
 Tampilan pada web
 ![screenshoot 8](screenshoot/8.1.png)
+
+#### 7. Menambahkan Elemen tambaha pada Main Content
+
+Code pada home.html
+![screenshoot 9](screenshoot/9.png)
+Code pada style.css
+![screenshoot 9](screenshoot/9.1.png)
+Tampilan pada web
+![screenshoot 9](screenshoot/9.2.png)
