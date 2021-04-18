@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontak</title>
+    <style>
+        /* import google font */
+        @import
+        url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+        @import
+        url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: "Open Sans", Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            font-weight: 400;
+            overflow-x: hidden;
+            background-color: #eeeeee;
+            color: #6C6D6E;
+        }
+        #container {
+            width: 980px;
+            margin: 0 auto;
+            box-shadow: 0 0 1em #cccccc;
+        }
+        header {
+            padding: 20px;
+        }
+        header h1 {
+            margin: 20px 10px;
+            color: #b5b5b5;
+        }
+        /* navigasi */
+        nav {
+            display: block;
+            background-color: #1f5faa;
+        }
+        nav a {
+            padding: 15px 30px;
+            display: inline-block;
+            color: #ffffff;
+            font-size: 14px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:active,
+        nav a:hover {
+            background-color: #2b83ea;
+        }
+        /* Hero Panel */
+        #hero {
+            background-color: #e4e4e5;
+            padding: 50px 20px;
+            margin-bottom: 20px;
+        }
+        #hero h1 {
+            margin-bottom: 20px;
+            font-size: 35px;
+        }
+        #hero p {
+            margin-bottom: 20px;
+            font-size: 18px;
+            line-height: 25px;
+        }
+        
+        /* footer */
+        footer {
+            clear:both;
+            background-color:#1d1d1d;
+            margin: 5px;
+            padding: 5px;
+            color:#eee;
+        }
+        form p > label {
+            display: inline-block;
+            width: 100px;
+        }
+        form input[type="text"], form textarea {
+            border: 1px solid #2b83ea;
+        }
+        form input[type="submit"] {
+            border: 1px solid #2b83ea;
+            background-color: #2b83ea;
+            color: #ffffff;
+            font-weight: bold;
+            padding: 5px 15px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <H1>Kontak</H1>
+        </header>
+        <nav>
+            <a href="home.html" class="active">Home</a>
+            <a href="artikel.html">Artikel</a>
+            <a href="about.html">About</a>
+            <a href="kontak.html">Kontak</a>
+        </nav>
+        <section id="hero">
+            <h1>Kontak Saya</h1>
+            <p>Hubungi saya dengan cara mengisi form dibawah</p>
+            <form action="proses.php" method="post">
+                <fieldset>
+            <p>
+                <label for="nama">Nama</label>
+                <input type="text" id="nama" name="nama">
+            </p>
+            <p>
+                <label for="pesan">Masukan Pesan Anda</label>
+                <textarea id="pesan" name="pesan" cols="20" rows="3"></textarea>
+            </p>
+            <p>
+                <label for="email">Alamat Email</label>
+                <input type="text" id="email" name="email">
+            </p>
+            <p>
+                <input type="submit" value="Kirim"></p>
+            </fieldset>
+           </form>
+            <a href="home.html" class="btn btn-large">Back to home &raquo;</a>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2021 - Panji Putra Pamungkas</p>
+    </footer>
+</body>
+</html>
