@@ -18,3 +18,9 @@ Tampilan pada web
 ![screenshoot 2](screenshoot/2.1.png)
 Tampilan apabila menggunakan properti clear dengan nilai right.
 ![screenshoot 2](screenshoot/2.2.png)
+
+### Membuat Layout Sederhana
+Coding pada home.html 
+![screenshoot 3](screenshoot/3.png)
+Tampilan pada web
+![screenshoot 3](screenshoot/3.1.png)
