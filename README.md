@@ -86,3 +86,14 @@ Code pada style.css
 ![screenshoot 10](screenshoot/10.1.png)
 Tampilan pada web
 ![screenshoot 10](screenshoot/10.2.png)
+
+### Tugas
+
+#### 1. Layout menu About
+
+Code pada about.html dan saya menggunakan css internal
+![screenshoot 11](screenshoot/11.png)
+![screenshoot 11](screenshoot/11.1.png)
+![screenshoot 11](screenshoot/11.2.png)
+Tampilan pada web
+![screenshoot 11](screenshoot/11.3.png)
